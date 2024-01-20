@@ -1,0 +1,26 @@
+.update-modal-ok-button {
+    background: rgba(13, 27, 62, 0.7) !important;
+}
+
+.update-modal-ok-button:hover {
+    background: rgba(71, 99, 170, 0.7) !important;
+}
+
+.confirm-modal-ok-button {
+    background: rgba(13, 27, 62, 0.7) !important;
+}
+
+.confirm-modal-ok-button:hover {
+    background: rgba(71, 99, 170, 0.7) !important;
+}
+
+.alert-cancel {
+    position: fixed;
+    top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;
+    z-index: 9999;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 0, 0, 0.9);
+}

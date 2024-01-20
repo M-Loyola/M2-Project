@@ -1,0 +1,61 @@
+.table th.ant-table-cell {
+  font-family: 'Arial', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(13, 27, 62, 0.7) !important;
+}
+
+.table th.ant-table-cell::before {
+  display: none !important;
+}
+
+.entity-detail-border {
+  border: 1px solid #CCCCCC;
+  color: #49505799 !important;
+}
+
+.table-drawer th.ant-table-cell {
+  background: #FFFFFF;
+  font-family: 'Arial', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #49505799;
+  border: none;
+  padding: 15px 15px 0px 15px;
+}
+
+.table-drawer th.ant-table-cell::before {
+  display: none !important;
+}
+
+.table-drawer td.ant-table-cell {
+  color: #000000;
+  padding: 0px 15px 15px 15px;
+}
+
+.site-page-header {
+  border: 1px solid rgb(235, 237, 240);
+}
+
+.text-color-dark {
+  color: #262626;
+}
+
+.forbid-button {
+  display: flex;
+  font-size: 12px;
+  line-height: 20px;
+  width: 63px;
+  height: 22px;
+  padding: 1px 8px;
+  justify-content: center;
+}
+
+.scrollable {
+  overflow-x: scroll;
+  white-space: nowrap;
+}
